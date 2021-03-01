@@ -26,47 +26,41 @@ namespace Musica
 
 
             Console.ForegroundColor = ConsoleColor.Black;
-            Console.Write("         ------");
+            Console.Write("         ------------");
             
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.Write("Titulo");
 
             Console.ForegroundColor = ConsoleColor.Black;
-            Console.WriteLine("------        ");
+            Console.WriteLine("------------        ");
 
             Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.WriteLine(titulo);
             
             Console.ForegroundColor = ConsoleColor.Black;
-            Console.Write("         ------");
+            Console.Write("         ------------");
 
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.Write("Letra");
 
             Console.ForegroundColor = ConsoleColor.Black;
-            Console.WriteLine("------         ");
+            Console.WriteLine("------------         ");
 
-            Console.ForegroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine(L1); 
             Console.WriteLine(L2);       
             Console.WriteLine(L3);
-
-            Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine(L4);
             Console.WriteLine(L5);
             Console.WriteLine(L6);
 
-            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine(L7);
             Console.WriteLine(L8);
             Console.WriteLine(L9);
-
-            Console.ForegroundColor = ConsoleColor.DarkGray;
             Console.WriteLine(L10);
             Console.WriteLine(L11);
             Console.WriteLine(L12);
-
-            Console.ForegroundColor = ConsoleColor.DarkGray;
             Console.WriteLine(L13);
 
             Console.ForegroundColor = ConsoleColor.DarkYellow;
