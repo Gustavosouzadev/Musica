@@ -64,6 +64,8 @@ namespace Musica
             Console.WriteLine(L12);
             Console.WriteLine(L13);
 
+            console.WriteLine("oi");
+
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine();
             Console.WriteLine("     Link da musica"    );
